@@ -4,7 +4,7 @@ This project implements a temperature-based fan speed controller using an Arduin
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram_url.jpg)
+![Circuit Diagram](https://drive.google.com/drive/my-drive)
 
 ## Components Used
 
